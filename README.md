@@ -5,10 +5,12 @@ STM32CubeIDE v Debug pogledu) sprogramirajte mikroprocesor tako, da boste merili
 vrtenja enkoderja.
 
 
-  1. | Funkcija | TIM2_CH1 | TIM2_CH2 |
-     |----------|----------|----------|
-     | Pin      | PA0      | PA1      |
-
+  1. | Funkcija: | TIM2_CH1 | TIM2_CH2 |
+     |-----------|----------|----------|
+     | Pin:      | PA0      | PA1      |
+     
+  2.  Premakne se za 2 inkramenta. 
+  
 ## Pinout
 ![Pinout]()
 
